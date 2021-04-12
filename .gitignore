@@ -1,3 +1,8 @@
+#Miranda's files to ignore (module work and config files)
+world_weather_analysis/
+config.py
+configweather.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
